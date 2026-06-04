@@ -17,7 +17,7 @@ def GC(x):
                 return f'{key}\n{round(value, 6)}'
 
 
-path = r"C:\Users\yanko\OneDrive\Desktop\python_projects\_path_to_files\rosalind_gc.txt"
+path = r"rosalind_gc.txt"
 print(GC(path))
 
 
