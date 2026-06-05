@@ -1,6 +1,6 @@
 def countnt(x):
     with open(x) as dna:
-        dna = dna.read()
+        dna = dna.read().strip()
         A = dna.count('A')
         C = dna.count('C')
         G = dna.count('G')
