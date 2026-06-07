@@ -5,5 +5,5 @@ output: the number of A, C, G, T nucleotides
 example  
 input:  
 AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC  
-output: 
+output:  
 20 12 17 21  
