@@ -1,1 +1,8 @@
-This code turn a strin of RNA into a 
+This code transcribes a string of DNA into a string of RNA by replacing Thymine with Uracil  
+
+example  
+imput:  
+GATGGAACTTGACTACGTAAATT  
+output:   
+GAUGGAACUUGACUACGUAAAUU  
+
